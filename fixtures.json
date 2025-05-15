@@ -1,0 +1,146 @@
+{
+  "matches": [
+    {
+      "_id": "ipl2024-01",
+      "id": "ipl2024-01",
+      "name": "Chennai Super Kings vs Royal Challengers Bengaluru",
+      "tournament": "Indian Premier League",
+      "team1": "Chennai Super Kings",
+      "team2": "Royal Challengers Bengaluru",
+      "venue": "M.A. Chidambaram Stadium, Chennai",
+      "date": "2024-03-05",
+      "time": "19:30",
+      "status": "Completed",
+      "result": "Chennai Super Kings won by 24 runs",
+      "winner": "Chennai Super Kings",
+      "score": {
+        "team1": "206/6",
+        "team2": "182/8"
+      },
+      "matchConditions": {
+        "pitch": "Spin-friendly, average bounce",
+        "weather": "Clear, 28°C",
+        "avgFirstInningsScore": 175,
+        "pitchReport": "Expected to assist spinners, dew factor minimal"
+      }
+    },
+    {
+      "_id": "ipl2024-02",
+      "id": "ipl2024-02",
+      "name": "Punjab Kings vs Delhi Capitals",
+      "tournament": "Indian Premier League",
+      "team1": "Punjab Kings",
+      "team2": "Delhi Capitals",
+      "venue": "Maharaja Yadavindra Singh Stadium, Mohali",
+      "date": "2024-03-06",
+      "time": "15:30",
+      "status": "Scheduled"
+    },
+    {
+      "_id": "ipl2024-03",
+      "id": "ipl2024-03",
+      "name": "Kolkata Knight Riders vs Sunrisers Hyderabad",
+      "tournament": "Indian Premier League",
+      "team1": "Kolkata Knight Riders",
+      "team2": "Sunrisers Hyderabad",
+      "venue": "Eden Gardens, Kolkata",
+      "date": "2024-03-07",
+      "time": "19:30",
+      "status": "Scheduled"
+    },
+    {
+      "_id": "ipl2024-04",
+      "id": "ipl2024-04",
+      "name": "Rajasthan Royals vs Lucknow Super Giants",
+      "tournament": "Indian Premier League",
+      "team1": "Rajasthan Royals",
+      "team2": "Lucknow Super Giants",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "date": "2024-03-08",
+      "time": "15:30",
+      "status": "Scheduled"
+    },
+    {
+      "_id": "ipl2024-05",
+      "id": "ipl2024-05",
+      "name": "Gujarat Titans vs Mumbai Indians",
+      "tournament": "Indian Premier League",
+      "team1": "Gujarat Titans",
+      "team2": "Mumbai Indians",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "date": "2024-03-09",
+      "time": "19:30",
+      "status": "Scheduled"
+    },
+    {
+      "_id": "ipl2024-06",
+      "id": "ipl2024-06",
+      "name": "Royal Challengers Bengaluru vs Punjab Kings",
+      "tournament": "Indian Premier League",
+      "team1": "Royal Challengers Bengaluru",
+      "team2": "Punjab Kings",
+      "venue": "M. Chinnaswamy Stadium, Bengaluru",
+      "date": "2024-03-10",
+      "time": "19:30",
+      "status": "Scheduled"
+    },
+    {
+      "_id": "ipl2024-07",
+      "id": "ipl2024-07",
+      "name": "Chennai Super Kings vs Gujarat Titans",
+      "tournament": "Indian Premier League",
+      "team1": "Chennai Super Kings",
+      "team2": "Gujarat Titans",
+      "venue": "M.A. Chidambaram Stadium, Chennai",
+      "date": "2024-03-11",
+      "time": "19:30",
+      "status": "Scheduled"
+    },
+    {
+      "_id": "ipl2024-08",
+      "id": "ipl2024-08",
+      "name": "Sunrisers Hyderabad vs Mumbai Indians",
+      "tournament": "Indian Premier League",
+      "team1": "Sunrisers Hyderabad",
+      "team2": "Mumbai Indians",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "date": "2024-03-12",
+      "time": "19:30",
+      "status": "Scheduled"
+    },
+    {
+      "_id": "ipl2024-09",
+      "id": "ipl2024-09",
+      "name": "Rajasthan Royals vs Delhi Capitals",
+      "tournament": "Indian Premier League",
+      "team1": "Rajasthan Royals",
+      "team2": "Delhi Capitals",
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "date": "2024-03-13",
+      "time": "19:30",
+      "status": "Scheduled"
+    },
+    {
+      "_id": "ipl2024-10",
+      "id": "ipl2024-10",
+      "name": "Royal Challengers Bengaluru vs Kolkata Knight Riders",
+      "tournament": "Indian Premier League",
+      "team1": "Royal Challengers Bengaluru",
+      "team2": "Kolkata Knight Riders",
+      "venue": "M. Chinnaswamy Stadium, Bengaluru",
+      "date": "2024-03-14",
+      "time": "19:30",
+      "status": "Scheduled"
+    }
+  ],
+  "meta": {
+    "lastUpdated": "2024-03-05T12:00:00Z",
+    "version": "1.0.0",
+    "dataSource": "IPL Official Records",
+    "totalMatches": {
+      "completed": 1,
+      "upcoming": 9,
+      "total": 10
+    }
+  }
+} 
